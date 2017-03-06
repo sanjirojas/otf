@@ -1,0 +1,655 @@
+::-webkit-input-placeholder {
+   color: white;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+   color: white;  
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+   color: white;  
+}
+
+:-ms-input-placeholder {  
+   color: white;  
+}
+
+h1 {
+   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+   text-align: center;
+   color:black;
+   text-transform: uppercase;
+   line-height: 38px !important;
+   margin-top: 60px;
+   margin-bottom: 60px;
+
+}
+
+
+h3 {
+   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+   text-align: left;
+   color:white;
+   text-transform: uppercase;
+   line-height: 38px !important;
+   
+   padding-left: 30px;
+
+}
+
+
+
+p {
+	font-family: 'Brown-Light';
+}
+
+.80porciento {
+	width: 80%;
+}
+.tituloprincipal {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	color: white;
+	font-size: 63px;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	line-height: 70px;
+}
+
+.txtbold {
+	    font-weight: bold;
+}
+
+
+.titleseccion1 {
+   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+   text-align: center;
+   color:black;
+   text-transform: uppercase;
+   line-height: 38px !important;
+   font-size: 38px;
+   padding-top: 10px;
+}
+
+.txtcompras {
+	font-size: 20px;
+	text-transform:uppercase;
+	text-align: center;
+	color: black;
+	padding-top: 30px;
+	margin-bottom: -6px;
+}
+
+.txtpaso {
+	font-size: 18px;
+	line-height: 28px;
+	text-transform:uppercase;
+	text-align: center;
+	padding-top: 30px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.txtcondiciones {
+	padding-right: 30px;
+	padding-left: 30px;
+
+}
+.blanco {
+	color: white;
+}
+
+.azul {
+	color: #09243c;
+}
+.imgcentrado {
+	display: inherit;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.mrgntop20 {
+	margin-top: 20px;
+}
+
+.mrgntop50 {
+	margin-top: 50px;
+}
+
+.mrgnbot50 {
+	margin-bottom: 50px;
+}
+
+.mrgnbot20 {
+	margin-bottom: 20px;
+}
+
+
+.bgsection1 {
+	
+	background-color: #4eb8b8;
+
+}
+
+.pdbot70 {
+	padding-bottom: 70px;
+}
+
+.pdbot40 {
+	padding-bottom: 40px;
+}
+
+
+.bgsection2 {
+	
+	background-image: url(../images/bgsection1.png);
+	background-repeat: repeat;	
+}
+
+.bgsection3 {
+	
+	background-image: url(../images/stars.png);
+	background-repeat: repeat;	
+}
+
+.bgsection4 {
+	
+	background-image: url(../images/bgsection4.png);
+	background-repeat: repeat;	
+}
+
+.bgsection5 {
+	
+	background-color: #f44674;
+		
+}
+
+.bgsection6 {
+	
+	background-color: #001730;
+		
+}
+
+@media (max-width: 991px) {
+h1 {
+   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+   text-align: center;
+   color:black;
+   text-transform: uppercase;
+   line-height: 38px !important;
+   margin-top: 60px;
+   margin-bottom: 60px;
+
+}
+
+
+h3 {
+   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+   text-align: left;
+   color:white;
+   text-transform: uppercase;
+   line-height: 38px !important;
+   
+   padding-left: 30px;
+
+}
+
+
+
+p {
+	font-family: 'Brown-Light';
+}
+
+.80porciento {
+	width: 80%;
+}
+.tituloprincipal {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	color: white;
+	font-size: 63px;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	line-height: 70px;
+}
+
+.txtbold {
+	    font-weight: bold;
+}
+
+
+.titleseccion1 {
+   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+   text-align: center;
+   color:black;
+   text-transform: uppercase;
+   line-height: 38px !important;
+   font-size: 38px;
+   padding-top: 10px;
+}
+
+.txtcompras {
+	font-size: 20px;
+	text-transform:uppercase;
+	text-align: center;
+	color: black;
+	padding-top: 30px;
+	margin-bottom: -6px;
+}
+
+.txtpaso {
+	font-size: 18px;
+	line-height: 28px;
+	text-transform:uppercase;
+	text-align: center;
+	padding-top: 30px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.txtcondiciones {
+	padding-right: 30px;
+	padding-left: 30px;
+
+}
+.blanco {
+	color: white;
+}
+
+.azul {
+	color: #09243c;
+}
+.imgcentrado {
+	display: inherit;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.mrgntop20 {
+	margin-top: 20px;
+}
+
+.mrgntop50 {
+	margin-top: 50px;
+}
+
+.mrgnbot50 {
+	margin-bottom: 50px;
+}
+
+.mrgnbot20 {
+	margin-bottom: 20px;
+}
+
+
+.bgsection1 {
+	
+	background-color: #4eb8b8;
+
+}
+
+.pdbot70 {
+	padding-bottom: 70px;
+}
+
+.pdbot40 {
+	padding-bottom: 40px;
+}
+
+
+.bgsection2 {
+	
+	background-image: url(../images/bgsection1.png);
+	background-repeat: repeat;	
+}
+
+.bgsection3 {
+	
+	background-image: url(../images/stars.png);
+	background-repeat: repeat;	
+}
+
+.bgsection4 {
+	
+	background-image: url(../images/bgsection4.png);
+	background-repeat: repeat;	
+}
+
+.bgsection5 {
+	
+	background-color: #f44674;
+		
+}
+
+.bgsection6 {
+	
+	background-color: #001730;
+		
+}
+
+}
+@media (max-width: 767px) {
+
+h1 {
+   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+   text-align: center;
+   color:black;
+   text-transform: uppercase;
+   line-height: 38px !important;
+   margin-top: 60px;
+   margin-bottom: 60px;
+
+}
+
+
+h3 {
+   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+   text-align: left;
+   color:white;
+   text-transform: uppercase;
+   line-height: 38px !important;
+   
+   padding-left: 30px;
+
+}
+
+
+
+p {
+	font-family: 'Brown-Light';
+}
+
+.80porciento {
+	width: 80%;
+}
+.tituloprincipal {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	color: white;
+	font-size: 63px;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	line-height: 70px;
+}
+
+.txtbold {
+	    font-weight: bold;
+}
+
+
+.titleseccion1 {
+   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+   text-align: center;
+   color:black;
+   text-transform: uppercase;
+   line-height: 38px !important;
+   font-size: 38px;
+   padding-top: 10px;
+}
+
+.txtcompras {
+	font-size: 20px;
+	text-transform:uppercase;
+	text-align: center;
+	color: black;
+	padding-top: 30px;
+	margin-bottom: -6px;
+}
+
+.txtpaso {
+	font-size: 18px;
+	line-height: 28px;
+	text-transform:uppercase;
+	text-align: center;
+	padding-top: 30px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.txtcondiciones {
+	padding-right: 30px;
+	padding-left: 30px;
+
+}
+.blanco {
+	color: white;
+}
+
+.azul {
+	color: #09243c;
+}
+.imgcentrado {
+	display: inherit;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.mrgntop20 {
+	margin-top: 20px;
+}
+
+.mrgntop50 {
+	margin-top: 50px;
+}
+
+.mrgnbot50 {
+	margin-bottom: 50px;
+}
+
+.mrgnbot20 {
+	margin-bottom: 20px;
+}
+
+
+.bgsection1 {
+	
+	background-color: #4eb8b8;
+
+}
+
+.pdbot70 {
+	padding-bottom: 70px;
+}
+
+.pdbot40 {
+	padding-bottom: 40px;
+}
+
+
+.bgsection2 {
+	
+	background-image: url(../images/bgsection1.png);
+	background-repeat: repeat;	
+}
+
+.bgsection3 {
+	
+	background-image: url(../images/stars.png);
+	background-repeat: repeat;	
+}
+
+.bgsection4 {
+	
+	background-image: url(../images/bgsection4.png);
+	background-repeat: repeat;	
+}
+
+.bgsection5 {
+	
+	background-color: #f44674;
+		
+}
+
+.bgsection6 {
+	
+	background-color: #001730;
+		
+}
+
+}
+
+@media (max-width: 479px) {
+
+h1 {
+   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+   text-align: center;
+   color:black;
+   text-transform: uppercase;
+   line-height: 38px !important;
+   margin-top: 60px;
+   margin-bottom: 60px;
+
+}
+
+
+h3 {
+   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+   text-align: left;
+   color:white;
+   text-transform: uppercase;
+   line-height: 38px !important;
+   
+   padding-left: 30px;
+
+}
+
+
+
+p {
+	font-family: 'Brown-Light';
+}
+
+.80porciento {
+	width: 80%;
+}
+.tituloprincipal {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	color: white;
+	font-size: 63px;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	line-height: 70px;
+}
+
+.txtbold {
+	    font-weight: bold;
+}
+
+
+.titleseccion1 {
+   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+   text-align: center;
+   color:black;
+   text-transform: uppercase;
+   line-height: 38px !important;
+   font-size: 38px;
+   padding-top: 10px;
+}
+
+.txtcompras {
+	font-size: 20px;
+	text-transform:uppercase;
+	text-align: center;
+	color: black;
+	padding-top: 30px;
+	margin-bottom: -6px;
+}
+
+.txtpaso {
+	font-size: 18px;
+	line-height: 28px;
+	text-transform:uppercase;
+	text-align: center;
+	padding-top: 30px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.txtcondiciones {
+	padding-right: 30px;
+	padding-left: 30px;
+
+}
+.blanco {
+	color: white;
+}
+
+.azul {
+	color: #09243c;
+}
+.imgcentrado {
+	display: inherit;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.mrgntop20 {
+	margin-top: 20px;
+}
+
+.mrgntop50 {
+	margin-top: 50px;
+}
+
+.mrgnbot50 {
+	margin-bottom: 50px;
+}
+
+.mrgnbot20 {
+	margin-bottom: 20px;
+}
+
+
+.bgsection1 {
+	
+	background-color: #4eb8b8;
+
+}
+
+.pdbot70 {
+	padding-bottom: 70px;
+}
+
+.pdbot40 {
+	padding-bottom: 40px;
+}
+
+
+.bgsection2 {
+	
+	background-image: url(../images/bgsection1.png);
+	background-repeat: repeat;	
+}
+
+.bgsection3 {
+	
+	background-image: url(../images/stars.png);
+	background-repeat: repeat;	
+}
+
+.bgsection4 {
+	
+	background-image: url(../images/bgsection4.png);
+	background-repeat: repeat;	
+}
+
+.bgsection5 {
+	
+	background-color: #f44674;
+		
+}
+
+.bgsection6 {
+	
+	background-color: #001730;
+		
+}
+
+
+}
+
